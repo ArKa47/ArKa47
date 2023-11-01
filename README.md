@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Te
-- 👀 I’m interested in web-aplication mobile-aplication
+- ✅ Curent skill : Next.js React Flutter Laravel/livewire
+- 👀 I’m interested in web-application mobile-application infrastructure
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me : ttae1141@gmail.com
 
