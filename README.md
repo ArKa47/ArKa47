@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Te
-- ✅ Curent skill : Next.js vue React Flutter Laravel/livewire
+- ✅ Curent skill : Next.js Vue React Flutter Laravel/livewire
 - 👀 I’m interested in web-application mobile-application infrastructure
 - 📫 How to reach me : ttae1141@gmail.com
 
